@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Alex02Mx/Manipulacion-de-Arrays#readme",
   "dependencies": {
+    "date-fns": "^2.29.3",
     "http-server": "^14.1.1"
   }
 }
